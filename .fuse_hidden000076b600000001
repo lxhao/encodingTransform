@@ -1,0 +1,274 @@
+OpenJDK 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Looking in classpath from com.intellij.util.lang.UrlClassLoader@45283ce2 for /com/sun/jna/linux-x86-64/libjnidispatch.so
+Found library resource at jar:file:/opt/android-studio/lib/jna.jar!/com/sun/jna/linux-x86-64/libjnidispatch.so
+Trying /home/lxhao/.AndroidStudio2.2/system/tmp/jna7244448271967167715.tmp
+Found jnidispatch at /home/lxhao/.AndroidStudio2.2/system/tmp/jna7244448271967167715.tmp
+[  11303]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Android Monitor) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/androidToolWindow.png 
+[  11326]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Build Variants) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/androidToolWindow.png 
+[  11351]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Android Model) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/androidToolWindow.png 
+[  11370]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Captures) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/captures.png 
+[  11590]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Designer) or icon jar:file:/opt/android-studio/lib/idea.jar!/com/intellij/designer/icons/toolWindow.png 
+[  11612]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Palette	) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowPalette.png 
+[  11660]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Theme Preview) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/themesPreview.png 
+[  11685]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Capture Tool) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/toolwindows/toolWindowWarning.png 
+[  11705]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Capture Analysis) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowFind.png 
+[  11726]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Nl-Palette) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowPalette.png 
+[  11736]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Properties) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowStructure.png 
+[  11763]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Image Layers) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowChanges.png 
+[  15183]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Event Log) or icon jar:file:/opt/android-studio/lib/icons.jar!/ide/noNotifications13.png 
+[  15220]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Project) or icon jar:file:/opt/android-studio/lib/resources.jar!/artwork/toolWindowProject_AS.png 
+[  15227]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  TODO) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowTodo.png 
+[  15255]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Structure) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowStructure.png 
+[  15266]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Favorites) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowFavorites.png 
+[  15283]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Terminal) or icon jar:file:/opt/android-studio/plugins/terminal/lib/terminal.jar!/icons/OpenTerminal_13x13.png 
+[  15372]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Version Control) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowChanges.png 
+[  15468]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Run) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowRun.png 
+[  15488]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Debug) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowDebugger.png 
+[  16162]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Gradle) or icon jar:file:/opt/android-studio/plugins/gradle/lib/gradle.jar!/icons/toolWindowGradle.png 
+[  16170]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Gradle Console) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/gradle_console_tool_window.png 
+[  24057]   WARN - roid.tools.ndk.GradleWorkspace - NDK support for project 'intelli_pension' is disabled because the project doesn't contain any valid native configurations. 
+[  24313]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Messages) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowMessages.png 
+[ 307737]   WARN - dea.sdk.SystemInfoStatsMonitor - CpuInfoFlags.fromExitCode(): unknown flag values '0x80' 
+[1507664]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Designer) or icon jar:file:/opt/android-studio/lib/idea.jar!/com/intellij/designer/icons/toolWindow.png 
+[1507665]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Palette	) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowPalette.png 
+[1507669]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Theme Preview) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/themesPreview.png 
+[1507675]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Capture Tool) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/toolwindows/toolWindowWarning.png 
+[1507677]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Capture Analysis) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowFind.png 
+[1507680]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Nl-Palette) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowPalette.png 
+[1507682]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Properties) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowStructure.png 
+[1507684]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Image Layers) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowChanges.png 
+[1507762]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Run) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowRun.png 
+[1507764]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Debug) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowDebugger.png 
+[1508032]   WARN - .workspace.NdkWorkspaceManager - NDK support for project 'D3Xmpp.UTF8' is disabled because it's not a valid Android project 
+[1508048]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Messages) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowMessages.png 
+[1508065]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Event Log) or icon jar:file:/opt/android-studio/lib/icons.jar!/ide/noNotifications13.png 
+[1508069]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Project) or icon jar:file:/opt/android-studio/lib/resources.jar!/artwork/toolWindowProject_AS.png 
+[1508071]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  TODO) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowTodo.png 
+[1508073]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Structure) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowStructure.png 
+[1508076]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Favorites) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowFavorites.png 
+[1508078]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Terminal) or icon jar:file:/opt/android-studio/plugins/terminal/lib/terminal.jar!/icons/OpenTerminal_13x13.png 
+[1508083]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Version Control) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowChanges.png 
+[1508589]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Gradle) or icon jar:file:/opt/android-studio/plugins/gradle/lib/gradle.jar!/icons/toolWindowGradle.png 
+[1508612]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Gradle Console) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/gradle_console_tool_window.png 
+[1508923]   WARN - ools.idea.run.util.LaunchUtils - calling isWatchFaceApp when facet is not ready yet 
+[1509008]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Build Variants) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/androidToolWindow.png 
+[1509010]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Android Model) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/androidToolWindow.png 
+[1509013]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Android Monitor) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/androidToolWindow.png 
+[1509015]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Captures) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/captures.png 
+[1510293]   WARN - penapi.vfs.impl.jar.JarHandler - java.util.zip.ZipException: invalid END header (bad central directory offset): /mnt/data/software/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduMap_AndroidSDK_v4.0.0_Sample/D3Xmpp.UTF8/app/libs/pinyin4j-2.5.0.jar 
+java.lang.RuntimeException: java.util.zip.ZipException: invalid END header (bad central directory offset)
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:37)
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:30)
+	at com.intellij.util.containers.SLRUCache.get(SLRUCache.java:46)
+	at com.intellij.util.io.FileAccessorCache.get(FileAccessorCache.java:62)
+	at com.intellij.openapi.vfs.impl.ZipHandler.getZipFileHandle(ZipHandler.java:105)
+	at com.intellij.openapi.vfs.impl.ZipHandler.createEntriesMap(ZipHandler.java:84)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.getEntriesMap(ArchiveHandler.java:124)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.getEntryInfo(ArchiveHandler.java:108)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.list(ArchiveHandler.java:90)
+	at com.intellij.openapi.vfs.newvfs.ArchiveFileSystem.list(ArchiveFileSystem.java:153)
+	at com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl.persistAllChildren(PersistentFSImpl.java:166)
+	at com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl.listAll(PersistentFSImpl.java:210)
+	at com.intellij.openapi.vfs.newvfs.impl.VirtualDirectoryImpl.getChildren(VirtualDirectoryImpl.java:305)
+	at com.intellij.openapi.vfs.VfsUtilCore.visitChildrenRecursively(VfsUtilCore.java:272)
+	at com.intellij.util.indexing.FileBasedIndex.iterateRecursively(FileBasedIndex.java:160)
+	at com.intellij.util.indexing.FileBasedIndexImpl$31.run(FileBasedIndexImpl.java:2523)
+	at com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$12$1.run(PushedFilePropertiesUpdaterImpl.java:332)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$2.run(CoreProgressManager.java:142)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:446)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:443)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:392)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:127)
+	at com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$12.run(PushedFilePropertiesUpdaterImpl.java:328)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:369)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.util.zip.ZipException: invalid END header (bad central directory offset)
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:219)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:149)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:120)
+	at com.intellij.openapi.vfs.impl.ZipHandler$1.createAccessor(ZipHandler.java:52)
+	at com.intellij.openapi.vfs.impl.ZipHandler$1.createAccessor(ZipHandler.java:44)
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:35)
+	... 29 more
+[1510395]   WARN - penapi.vfs.impl.jar.JarHandler - java.util.zip.ZipException: error in opening zip file: /mnt/data/software/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduMap_AndroidSDK_v4.0.0_Sample/D3Xmpp.UTF8/app/libs/universal-image-loader-1.9.3.jar 
+java.lang.RuntimeException: java.util.zip.ZipException: error in opening zip file
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:37)
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:30)
+	at com.intellij.util.containers.SLRUCache.get(SLRUCache.java:46)
+	at com.intellij.util.io.FileAccessorCache.get(FileAccessorCache.java:62)
+	at com.intellij.openapi.vfs.impl.ZipHandler.getZipFileHandle(ZipHandler.java:105)
+	at com.intellij.openapi.vfs.impl.ZipHandler.createEntriesMap(ZipHandler.java:84)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.getEntriesMap(ArchiveHandler.java:124)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.getEntryInfo(ArchiveHandler.java:108)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.list(ArchiveHandler.java:90)
+	at com.intellij.openapi.vfs.newvfs.ArchiveFileSystem.list(ArchiveFileSystem.java:153)
+	at com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl.persistAllChildren(PersistentFSImpl.java:166)
+	at com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl.listAll(PersistentFSImpl.java:210)
+	at com.intellij.openapi.vfs.newvfs.impl.VirtualDirectoryImpl.getChildren(VirtualDirectoryImpl.java:305)
+	at com.intellij.openapi.vfs.VfsUtilCore.visitChildrenRecursively(VfsUtilCore.java:272)
+	at com.intellij.util.indexing.FileBasedIndex.iterateRecursively(FileBasedIndex.java:160)
+	at com.intellij.util.indexing.FileBasedIndexImpl$31.run(FileBasedIndexImpl.java:2523)
+	at com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$12$1.run(PushedFilePropertiesUpdaterImpl.java:332)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$2.run(CoreProgressManager.java:142)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:446)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:443)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:392)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:127)
+	at com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$12.run(PushedFilePropertiesUpdaterImpl.java:328)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:369)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:219)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:149)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:120)
+	at com.intellij.openapi.vfs.impl.ZipHandler$1.createAccessor(ZipHandler.java:52)
+	at com.intellij.openapi.vfs.impl.ZipHandler$1.createAccessor(ZipHandler.java:44)
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:35)
+	... 29 more
+[1510407]   WARN - penapi.vfs.impl.jar.JarHandler - java.util.zip.ZipException: error in opening zip file: /mnt/data/software/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduMap_AndroidSDK_v4.0.0_Sample/D3Xmpp.UTF8/app/libs/asmack-android-17-0.8.10.jar 
+java.lang.RuntimeException: java.util.zip.ZipException: error in opening zip file
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:37)
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:30)
+	at com.intellij.util.containers.SLRUCache.get(SLRUCache.java:46)
+	at com.intellij.util.io.FileAccessorCache.get(FileAccessorCache.java:62)
+	at com.intellij.openapi.vfs.impl.ZipHandler.getZipFileHandle(ZipHandler.java:105)
+	at com.intellij.openapi.vfs.impl.ZipHandler.createEntriesMap(ZipHandler.java:84)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.getEntriesMap(ArchiveHandler.java:124)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.getEntryInfo(ArchiveHandler.java:108)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.list(ArchiveHandler.java:90)
+	at com.intellij.openapi.vfs.newvfs.ArchiveFileSystem.list(ArchiveFileSystem.java:153)
+	at com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl.persistAllChildren(PersistentFSImpl.java:166)
+	at com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl.listAll(PersistentFSImpl.java:210)
+	at com.intellij.openapi.vfs.newvfs.impl.VirtualDirectoryImpl.getChildren(VirtualDirectoryImpl.java:305)
+	at com.intellij.openapi.vfs.VfsUtilCore.visitChildrenRecursively(VfsUtilCore.java:272)
+	at com.intellij.util.indexing.FileBasedIndex.iterateRecursively(FileBasedIndex.java:160)
+	at com.intellij.util.indexing.FileBasedIndexImpl$31.run(FileBasedIndexImpl.java:2523)
+	at com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$12$1.run(PushedFilePropertiesUpdaterImpl.java:332)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$2.run(CoreProgressManager.java:142)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:446)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:443)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:392)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:127)
+	at com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$12.run(PushedFilePropertiesUpdaterImpl.java:328)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:369)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:219)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:149)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:120)
+	at com.intellij.openapi.vfs.impl.ZipHandler$1.createAccessor(ZipHandler.java:52)
+	at com.intellij.openapi.vfs.impl.ZipHandler$1.createAccessor(ZipHandler.java:44)
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:35)
+	... 29 more
+[1510410]   WARN - penapi.vfs.impl.jar.JarHandler - java.util.zip.ZipException: error in opening zip file: /mnt/data/software/Downloads/BaiduLBS_AndroidSDK_Sample/BaiduMap_AndroidSDK_v4.0.0_Sample/D3Xmpp.UTF8/app/libs/BaiduLBS_Android.jar 
+java.lang.RuntimeException: java.util.zip.ZipException: error in opening zip file
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:37)
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:30)
+	at com.intellij.util.containers.SLRUCache.get(SLRUCache.java:46)
+	at com.intellij.util.io.FileAccessorCache.get(FileAccessorCache.java:62)
+	at com.intellij.openapi.vfs.impl.ZipHandler.getZipFileHandle(ZipHandler.java:105)
+	at com.intellij.openapi.vfs.impl.ZipHandler.createEntriesMap(ZipHandler.java:84)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.getEntriesMap(ArchiveHandler.java:124)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.getEntryInfo(ArchiveHandler.java:108)
+	at com.intellij.openapi.vfs.impl.ArchiveHandler.list(ArchiveHandler.java:90)
+	at com.intellij.openapi.vfs.newvfs.ArchiveFileSystem.list(ArchiveFileSystem.java:153)
+	at com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl.persistAllChildren(PersistentFSImpl.java:166)
+	at com.intellij.openapi.vfs.newvfs.persistent.PersistentFSImpl.listAll(PersistentFSImpl.java:210)
+	at com.intellij.openapi.vfs.newvfs.impl.VirtualDirectoryImpl.getChildren(VirtualDirectoryImpl.java:305)
+	at com.intellij.openapi.vfs.VfsUtilCore.visitChildrenRecursively(VfsUtilCore.java:272)
+	at com.intellij.util.indexing.FileBasedIndex.iterateRecursively(FileBasedIndex.java:160)
+	at com.intellij.util.indexing.FileBasedIndexImpl$31.run(FileBasedIndexImpl.java:2523)
+	at com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl.invokeConcurrentlyIfPossible(PushedFilePropertiesUpdaterImpl.java:340)
+	at com.intellij.util.indexing.FileBasedIndexImpl.iterateIndexableFilesConcurrently(FileBasedIndexImpl.java:2439)
+	at com.intellij.util.indexing.UnindexedFilesUpdater.updateUnindexedFiles(UnindexedFilesUpdater.java:75)
+	at com.intellij.util.indexing.UnindexedFilesUpdater.performInDumbMode(UnindexedFilesUpdater.java:117)
+	at com.intellij.openapi.project.DumbServiceImpl$11.run(DumbServiceImpl.java:493)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$2.run(CoreProgressManager.java:142)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:446)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:392)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:127)
+	at com.intellij.openapi.project.DumbServiceImpl.runSingleTask(DumbServiceImpl.java:484)
+	at com.intellij.openapi.project.DumbServiceImpl.access$1600(DumbServiceImpl.java:54)
+	at com.intellij.openapi.project.DumbServiceImpl$10.run(DumbServiceImpl.java:457)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$TaskRunnable.run(CoreProgressManager.java:563)
+	at com.intellij.openapi.progress.impl.CoreProgressManager$2.run(CoreProgressManager.java:142)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.registerIndicatorAndRun(CoreProgressManager.java:446)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.executeProcessUnderProgress(CoreProgressManager.java:392)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl.executeProcessUnderProgress(ProgressManagerImpl.java:54)
+	at com.intellij.openapi.progress.impl.CoreProgressManager.runProcess(CoreProgressManager.java:127)
+	at com.intellij.openapi.progress.impl.ProgressManagerImpl$1.run(ProgressManagerImpl.java:126)
+	at com.intellij.openapi.application.impl.ApplicationImpl$8.run(ApplicationImpl.java:369)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.util.zip.ZipException: error in opening zip file
+	at java.util.zip.ZipFile.open(Native Method)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:219)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:149)
+	at java.util.zip.ZipFile.<init>(ZipFile.java:120)
+	at com.intellij.openapi.vfs.impl.ZipHandler$1.createAccessor(ZipHandler.java:52)
+	at com.intellij.openapi.vfs.impl.ZipHandler$1.createAccessor(ZipHandler.java:44)
+	at com.intellij.util.io.FileAccessorCache$1.createValue(FileAccessorCache.java:35)
+	... 41 more
+Looking for library 'libnotify.so.4'
+Adding paths from jna.library.path: null
+Trying libnotify.so.4
+Found library 'libnotify.so.4' at libnotify.so.4
+[1590168]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Find) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowFind.png 
+Looking for library 'util'
+Adding paths from jna.library.path: null
+Trying libutil.so
+Found library 'util' at libutil.so
+Looking for library '/opt/android-studio/lib/libpty/linux/x86_64/libpty.so'
+Adding paths from jna.library.path: null
+Trying /opt/android-studio/lib/libpty/linux/x86_64/libpty.so
+Found library '/opt/android-studio/lib/libpty/linux/x86_64/libpty.so' at /opt/android-studio/lib/libpty/linux/x86_64/libpty.so
+[7499702]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Designer) or icon jar:file:/opt/android-studio/lib/idea.jar!/com/intellij/designer/icons/toolWindow.png 
+[7499713]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Palette	) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowPalette.png 
+[7499715]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Theme Preview) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/themesPreview.png 
+[7499720]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Capture Tool) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/toolwindows/toolWindowWarning.png 
+[7499721]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Capture Analysis) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowFind.png 
+[7499723]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Nl-Palette) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowPalette.png 
+[7499724]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Properties) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowStructure.png 
+[7499725]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Image Layers) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowChanges.png 
+[7499769]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Run) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowRun.png 
+[7499771]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Debug) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowDebugger.png 
+[7499973]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Messages) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowMessages.png 
+[7499974]   WARN - .workspace.NdkWorkspaceManager - NDK support for project 'D3Xmpp.编码转换' is disabled because it's not a valid Android project 
+[7499983]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Event Log) or icon jar:file:/opt/android-studio/lib/icons.jar!/ide/noNotifications13.png 
+[7499992]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Project) or icon jar:file:/opt/android-studio/lib/resources.jar!/artwork/toolWindowProject_AS.png 
+[7499995]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  TODO) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowTodo.png 
+[7499997]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Structure) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowStructure.png 
+[7499999]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Favorites) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowFavorites.png 
+[7500001]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Terminal) or icon jar:file:/opt/android-studio/plugins/terminal/lib/terminal.jar!/icons/OpenTerminal_13x13.png 
+[7500029]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Version Control) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowChanges.png 
+[7500242]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Gradle) or icon jar:file:/opt/android-studio/plugins/gradle/lib/gradle.jar!/icons/toolWindowGradle.png 
+[7500259]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Gradle Console) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/gradle_console_tool_window.png 
+[7500403]   WARN - ools.idea.run.util.LaunchUtils - calling isWatchFaceApp when facet is not ready yet 
+[7500470]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Build Variants) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/androidToolWindow.png 
+[7500472]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Android Model) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/androidToolWindow.png 
+[7500474]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Android Monitor) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/androidToolWindow.png 
+[7500476]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Captures) or icon jar:file:/opt/android-studio/plugins/android/lib/android.jar!/icons/captures.png 
+[7890272]   WARN - openapi.wm.impl.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Run) or icon jar:file:/opt/android-studio/lib/icons.jar!/toolwindows/toolWindowRun.png 
+[7891920]   WARN -            #com.android.ddmlib - Adb rejected connection to client '32486': closed 
