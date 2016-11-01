@@ -10,9 +10,8 @@ public class EncodingTransform {
         String outputDir;
         String inputEncode;
         String outputEncode;
-        String[] filters = new String[args.length - 2];
 
-        if(args.length < 3) {
+        if(args == null || args.length < 3) {
             System.out.println("输入参数错误");
             System.out.println("使用方法:");
             System.out.println("    javac EncodingTransform.java");
@@ -24,6 +23,7 @@ public class EncodingTransform {
         }
 
         //参数判断
+        String[] filters = new String[args.length - 2];
         inputDir = new File(args[0]).getAbsolutePath();
         outputDir = inputDir + ".编码转换";
         if(inputDir.endsWith(File.pathSeparator)) {
@@ -89,7 +89,7 @@ public class EncodingTransform {
      */
     public static boolean filterFile(String filename, String filters[]) {
         for(int i = 0; i < filters.length; i++) {
-            if(filename.endsWith(filters[i])) {
+            if(filename.endsWith(filters[i]) || filename.endsWith(".all")) {
                 return true;
             }
         }
